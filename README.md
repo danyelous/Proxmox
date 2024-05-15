@@ -38,7 +38,9 @@ I have several hours trying to get it working with HTTPS connection from the Int
 
 This example is pointing to a service which is a wordpress container on the Portainer container virtual machine inside Proxmox.
 
-
+# VM VNC screen resolution
+To change the screen resolution for the virtual machines under VNC, when starting the machines press the ESC key several times to enter the OVMF / UEFI BIOS.
+There go to Device Manager->OVMF Platform Configuration->change prefered resolution.
 
 
 
