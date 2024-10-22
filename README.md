@@ -22,7 +22,7 @@ BTW, you need a dedicated video card to get the video passthroug: https://hsve.o
 Maybe you want to get Portainer installed to get some containers working with docker and docker-compose, here is how:
 https://www.youtube.com/watch?v=Ax66SnZROKA
 
-#Access your server from Internet
+# Access your server from Internet
 After all this, yo may want to access your server remotely, for this you´ll need cloudflare https://www.cloudflare.com/
 Here is a video explaining how: https://www.youtube.com/watch?v=jEuZrcTvCos
 To run the cloudflare service script I created a container machine on Proxmox using an Ubuntu image.
