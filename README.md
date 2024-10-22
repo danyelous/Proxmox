@@ -43,6 +43,10 @@ To change the screen resolution for the virtual machines under VNC, when startin
 There go to Device Manager->OVMF Platform Configuration->change prefered resolution.
 
 
+# Error 501 accesing console
+If you get this error, enable/disable Disable Chunked Encoding on the Cloudflare tunnel
+
+
 
  
 
